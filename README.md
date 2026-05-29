@@ -30,5 +30,6 @@ This repository contains:
 - 03-Git-CI-CD
 - 04-Terraform
 - 05-Kubernetes
-- 06-AWS
-- 07-Monitoring
+- 06-Jenkins
+- 07-AWS
+- 08-Monitoring
